@@ -1,0 +1,9 @@
+C:\Users\Levi\Desktop\MonsterHunterTUI_Rust\monster-hunter-tui-rust\target\debug\deps\derive_more_impl-dd0234319426cc13.d: C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\lib.rs C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\utils.rs C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\is_variant.rs C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\../README.md C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\../doc/is_variant.md
+
+C:\Users\Levi\Desktop\MonsterHunterTUI_Rust\monster-hunter-tui-rust\target\debug\deps\derive_more_impl-dd0234319426cc13.dll: C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\lib.rs C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\utils.rs C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\is_variant.rs C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\../README.md C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\../doc/is_variant.md
+
+C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\lib.rs:
+C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\utils.rs:
+C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\is_variant.rs:
+C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\../README.md:
+C:\Users\Levi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-2.1.1\src\../doc/is_variant.md:

@@ -17,12 +17,21 @@ use ratatui::{
 
 pub struct App {
     should_quit: bool,
+    focus: Focus
+}
+
+#[derive(Clone, Copy, PartialEq)]
+pub enum Focus {
+    Logs,
+    Events,
+    Details,
 }
 
 impl App {
     pub fn new() -> Self {
         Self {
             should_quit: false,
+            focus: Focus::Logs,
         }
     }
 

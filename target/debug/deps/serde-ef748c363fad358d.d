@@ -1,0 +1,14 @@
+C:\Users\bmueller\Documents\Programming\MonsterHunterTUI\target\debug\deps\serde-ef748c363fad358d.d: C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\bmueller\Documents\Programming\MonsterHunterTUI\target\debug\build\serde-1dc44eae6ea9362b\out/private.rs
+
+C:\Users\bmueller\Documents\Programming\MonsterHunterTUI\target\debug\deps\libserde-ef748c363fad358d.rlib: C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\bmueller\Documents\Programming\MonsterHunterTUI\target\debug\build\serde-1dc44eae6ea9362b\out/private.rs
+
+C:\Users\bmueller\Documents\Programming\MonsterHunterTUI\target\debug\deps\libserde-ef748c363fad358d.rmeta: C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\bmueller\Documents\Programming\MonsterHunterTUI\target\debug\build\serde-1dc44eae6ea9362b\out/private.rs
+
+C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\bmueller\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\bmueller\Documents\Programming\MonsterHunterTUI\target\debug\build\serde-1dc44eae6ea9362b\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\bmueller\\Documents\\Programming\\MonsterHunterTUI\\target\\debug\\build\\serde-1dc44eae6ea9362b\\out
